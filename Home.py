@@ -16,7 +16,8 @@ with col2:
     st.info(content)
 
 content2 = """
-Below you can find some of the apps I have built in the course of my learning journey. Feel free to contact me!
+Below you can find some of the apps I have built in the course 
+of my learning journey. Feel free to contact me!
 """
 st.text(content2)
 
